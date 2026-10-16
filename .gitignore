@@ -226,3 +226,5 @@ __marimo__/
 # Postgre credentials
 .my_pgpass
 .pgpass
+
+__init__.py
